@@ -24,7 +24,7 @@ public class PlayerListener implements Listener {
 
     @EventHandler
     public void onPlayerQuit(PlayerQuitEvent e){
-
+        Player p = e.getPlayer();
     }
 
     @EventHandler
