@@ -1,0 +1,17 @@
+1: Night Vision
+2: Flight
+3: Laser
+4: Gold Boost
+5: XP Boost
+6: Speed
+7: Jump
+8: Greed
+9: Key Finder
+10: Luck
+11: Key Compactor
+12: Auto Sell
+13: Chest Upgrader
+14: Vertical
+15: Horizontal
+16: Regal
+17: Frugal

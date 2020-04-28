@@ -1,0 +1,15 @@
+User\PlayerHandler.class
+Mining\BlockDrops.class
+Listeners\PlayerListener.class
+Misc\BasePet.class
+Core\Main.class
+Misc\PetType.class
+Listeners\CommandListener.class
+Enchantments\Enc.class
+Abilities\BaseAbility.class
+Core\Calc.class
+Misc\TokenPet.class
+Abilities\TokenAbility.class
+Enchantments\EnchantmentHandler.class
+User\User.class
+Pickaxes\Pick.class

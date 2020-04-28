@@ -1,0 +1,7 @@
+name: Terion
+main: Core.Main
+version: 0.1
+author: Jamiezi
+commands:
+  ce:
+    description: Enchants a thing
